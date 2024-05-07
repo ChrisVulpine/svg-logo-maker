@@ -1,4 +1,4 @@
 <svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="150" cy="100" r="100" stroke="black" stroke-width="2" fill="green"/>
+    <circle cx="150" cy="100" r="100" stroke="black" stroke-width="2" fill="red"/>
     <text x="150" y="105" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="45">BYE</text>
 </svg>

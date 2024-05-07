@@ -1,7 +1,6 @@
 const inquirer = require("inquirer");
-
-
 const fs = require("fs");
+
 const Circle = require('./lib/circle');
 const Square = require('./lib/square');
 const Triangle = require('./lib/triangle');
@@ -91,6 +90,6 @@ logoQuestions().then((answers) => {
             console.error(err);
             return;
         }
-        console.log('Your logo has been created!');
+        console.log('Generated logo.svg');
     })
 });
