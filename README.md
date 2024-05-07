@@ -15,7 +15,13 @@ This is a simple SVG logo generator that runs in the CLI and allows the user to 
 - [Questions](#questions)
 
 ## Installation
-Clone this repository to your local device and install the dependencies using an npm install. This application uses [Jest](https://www.npmjs.com/package/jest) for testing and [Inquirer](https://www.npmjs.com/package/inquirer) for questions and tracking user answers.
+Clone this repository to your local device and install the dependencies using the command 
+
+```
+ npm install 
+ ```
+
+  This application uses [Jest](https://www.npmjs.com/package/jest) for testing and [Inquirer](https://www.npmjs.com/package/inquirer) for questions and tracking user answers.
 
 ## Usage
 After navigating to the project in your CLI run the following command:
